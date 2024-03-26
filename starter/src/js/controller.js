@@ -70,5 +70,3 @@ function init() {
   paginationViewClass.addHandlerPagination(controlPagination);
 }
 init();
-
-console.log('hello');
